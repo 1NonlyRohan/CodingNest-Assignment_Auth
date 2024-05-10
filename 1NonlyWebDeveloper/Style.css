@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.header-logo h2{
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+
+.e-p{
+    margin: 200px 0 0 500px;
+}
+
+.e-p p {
+    padding: 10px 50px;
+    font-size: 20px;
+}
+
+.form input {
+    outline: 0;
+    border-radius: 5px;
+    width: 430px;
+    margin: 20px 10px 20px 500px;
+    padding: 10px;
+    text-align: center;
+    font-size: 25px;
+    border: 1px solid grey;
+}
+
+.form button{
+    width: 430px;
+    background-color: #000;
+    color: #fff;
+    margin: 0 10px 30px 500px;
+    text-align: center;
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 20px;
+    border: 1px solid #000;
+}
+
+span{
+    color: grey;
+    cursor: pointer;
+}
+
+.img img{
+    margin: 0 0 0 535px;
+}
+
+.last-p {
+    font-size: 20px;
+    padding: 10px 450px 100px 550px;
+}
